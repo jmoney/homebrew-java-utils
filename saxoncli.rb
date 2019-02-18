@@ -3,7 +3,7 @@ require 'formula'
 class Saxoncli < Formula
   homepage 'http://jmonette.github.io/saxoncli'
   url 'https://github.com/jmonette/saxoncli/archive/v0.2.2.tar.gz'
-  sha256 'f15051a71d36b7fe91e46ea720df751dda749c29'
+  sha256 '7aea5c194b943c74d460395b5a89db58161ad103185372e66881aafa1ab5650d'
 
   head 'https://github.com/jmonette/saxoncli.git'
 
